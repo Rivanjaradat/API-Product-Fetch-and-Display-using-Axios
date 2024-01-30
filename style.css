@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+
+
+}
+.card{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+   
+   
+    gap: 10px;
+    padding: 10px;
+}
